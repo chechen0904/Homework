@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	ln_number_of_killed
+	
+ln_cfv	0.000478***
+	(7.14e-05)
+Constant	-0.000117
+	(0.000201)
+	
+Observations	726,883
+R-squared	0.000
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
